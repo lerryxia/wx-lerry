@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "文初lerry | 关于我",
+  "usingComponents": {
+    "admin-login": "../../../components/admin-login/index"
+  }
+}
